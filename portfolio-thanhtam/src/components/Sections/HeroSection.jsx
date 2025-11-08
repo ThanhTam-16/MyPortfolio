@@ -82,8 +82,8 @@ const HeroSection = ({ t, scrollToSection }) => {
                     📄 CV Tiếng Việt
                   </a>
                   <a 
-                    href="/NguyenThanhTam_CV_EN.pdf" 
-                    download="NguyenThanhTam_CV_EN.pdf"
+                    href="/NguyenThanhTam_CV.pdf" 
+                    download="NguyenThanhTam_CV.pdf"
                     className="block text-sm font-mono text-cyan-600 hover:underline"
                   >
                     📄 CV English
