@@ -71,9 +71,9 @@ const Portfolio = () => {
       hero: {
         greeting: 'Xin chào, Tôi là',
         name: 'NGUYỄN THÀNH TÂM',
-        role: 'Web Developer',
+        role: 'Software Engineer',
         description:
-          'Tôi là sinh viên năm cuối chuyên ngành Kỹ thuật Phần mềm, có kinh nghiệm phát triển ứng dụng web với React, Angular, NodeJS, Laravel và MySQL.',
+          'Tôi là một Software Engineer tập trung vào phát triển ứng dụng web hiện đại, có kinh nghiệm xây dựng hệ thống full-stack với React, Angular, NodeJS, Laravel và MySQL.',
         downloadCV: 'Tải CV',
         contactMe: 'Liên hệ',
       },
@@ -115,9 +115,9 @@ const Portfolio = () => {
       hero: {
         greeting: "Hello, I'm",
         name: 'NGUYEN THANH TAM',
-        role: 'Web Developer',
+        role: 'Software Engineer',
         description:
-          'I am a final-year Software Engineering student with experience in web application development using React, Angular, NodeJS, Laravel, and MySQL.',
+          'I am a Software Engineer focused on developing modern web applications, with hands-on experience building full-stack systems using React, Angular, Node.js, Laravel, and MySQL.',
         downloadCV: 'Download CV',
         contactMe: 'Contact Me',
       },
