@@ -266,7 +266,7 @@ const ContactSection = ({ t }) => {
                     {[
                         {
                         icon: Github,
-                        href: "https://github.com/Thanhtam-dvl",
+                        href: "https://github.com/Thanhtam-16",
                         color: "hover:text-gray-300",
                         bgColor: "hover:bg-gray-700/50"
                         },

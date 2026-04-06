@@ -54,7 +54,7 @@ const Footer = ({ t }) => {
     },
     {
       name: 'GitHub',
-      href: 'https://github.com/ThanhTam-dvl',
+      href: 'https://github.com/ThanhTam-16',
       icon: FaGithub,
       color: 'hover:bg-gray-800 dark:hover:bg-white'
     }

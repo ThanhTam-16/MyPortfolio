@@ -75,15 +75,15 @@ const HeroSection = ({ t, scrollToSection }) => {
               {showCVOptions && (
                 <div className="absolute top-full mt-2 left-0 bg-white shadow-lg rounded-lg border p-4 space-y-2 z-50">
                   <a 
-                    href="/NguyenThanhTam_CV_VI.pdf" 
-                    download="NguyenThanhTam_CV_VI.pdf"
+                    href="/NguyenThanhTam_CV_VIE.pdf" 
+                    download="NguyenThanhTam_CV_VIE.pdf"
                     className="block text-sm font-mono text-red-600 hover:underline"
                   >
                     📄 CV Tiếng Việt
                   </a>
                   <a 
-                    href="/NguyenThanhTam_CV.pdf" 
-                    download="NguyenThanhTam_CV.pdf"
+                    href="/NguyenThanhTam_CV_ENG.pdf" 
+                    download="NguyenThanhTam_CV_ENG.pdf"
                     className="block text-sm font-mono text-cyan-600 hover:underline"
                   >
                     📄 CV English
@@ -110,7 +110,7 @@ const HeroSection = ({ t, scrollToSection }) => {
               transition={{ delay: 2 }}
             >
               {[
-                { icon: Github, href: "https://github.com/Thanhtam-dvl", color: "hover:text-red-400" },
+                { icon: Github, href: "https://github.com/Thanhtam-16", color: "hover:text-red-400" },
                 { icon: Mail, href: "mailto:nguyenthanhtam10062004@gmail.com", color: "hover:text-cyan-400" },
                 { icon: Phone, href: "tel:0868713558", color: "hover:text-yellow-400" }
               ].map((social, index) => (

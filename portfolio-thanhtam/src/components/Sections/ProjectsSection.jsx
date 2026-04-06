@@ -145,7 +145,7 @@ const ProjectsSection = ({ t }) => (
                   <span>DEMO</span>
                 </motion.a>
                 <motion.a
-                  href="https://github.com/ThanhTam-dvl"
+                  href="https://github.com/ThanhTam-16/TaZiFootballField_ReactNodejsMysql"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.1, rotate: 5 }}
@@ -267,7 +267,7 @@ const ProjectsSection = ({ t }) => (
                   <span>DEMO</span>
                 </motion.a>
                 <motion.a
-                  href="https://github.com/ThanhTam-dvl/Website_TZBookStore_LaravelMysql"
+                  href="https://github.com/ThanhTam-16/TZBookStore_LaravelMysql"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.1, rotate: -5 }}
@@ -382,7 +382,7 @@ const ProjectsSection = ({ t }) => (
                 
                 <div className="flex space-x-2">
                     <motion.a
-                    href="https://github.com/ThanhTam-dvl/Traffic_Violation_Detection"
+                    href="https://github.com/ThanhTam-16/TrafficViolationDetection_YOLO"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.05, boxShadow: "0 0 20px rgba(239, 68, 68, 0.5)" }}
